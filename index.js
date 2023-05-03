@@ -25,8 +25,8 @@ for (var i = 0; i < columns; i++) {
 
 // Setting up the draw function
 function draw() {
-  ctx.globalAlpha = 0.2;
-  ctx.fillStyle = 'rgba(0, 0, 0, .1)';
+  
+  ctx.fillStyle = 'rgba(236, 240, 243, .1)';
   ctx.fillRect(0, 0, canvas.width, canvas.height);
   for (var i = 0; i < drops.length; i++) {
     var text = letters[Math.floor(Math.random() * letters.length)];
