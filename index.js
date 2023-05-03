@@ -3,8 +3,11 @@ var canvas = document.querySelector('canvas'),
     ctx = canvas.getContext('2d');
 
 // Setting the width and height of the canvas
+// Setting the width and height of the canvas to maximum
+
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
+
 
 // Setting up the letters
 var letters = 'Void';
