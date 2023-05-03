@@ -25,7 +25,7 @@ for (var i = 0; i < columns; i++) {
 
 // Setting up the draw function
 function draw() {
-  ctx.ctx.globalAlpha = 0.2;
+  ctx.globalAlpha = 0.2;
   ctx.fillStyle = 'rgba(0, 0, 0, .1)';
   ctx.fillRect(0, 0, canvas.width, canvas.height);
   for (var i = 0; i < drops.length; i++) {
