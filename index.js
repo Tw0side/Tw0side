@@ -30,7 +30,7 @@ function draw() {
   ctx.fillRect(0, 0, canvas.width, canvas.height);
   for (var i = 0; i < drops.length; i++) {
     var text = letters[Math.floor(Math.random() * letters.length)];
-    ctx.fillStyle = '#FC4F00';
+    ctx.fillStyle = '#F45050';
     ctx.fillText(text, i * fontSize, drops[i] * fontSize);
     drops[i]++;
     if (drops[i] * fontSize > canvas.height && Math.random() > .95) {
