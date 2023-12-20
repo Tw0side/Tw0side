@@ -13,6 +13,6 @@ I'm a Cyber Security student, currently diving into the world of tech. I'm passi
 ## Contact Me
 Feel free to reach out to me for discussions on cybersecurity, programming, or collaborations!
 
-    Instagram - https://www.instagram.com/tw0side__
+ Instagram - https://www.instagram.com/tw0side__
 
-
+Email - twoside2004@gmail.com
