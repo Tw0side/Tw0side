@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Santo 👋
 
-<!--
-**Tw0side/Tw0side** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!Profile Picture
 
-Here are some ideas to get you started:
+## About Me
+I'm a Cyber Security student, currently diving into the world of tech. I'm passionate about learning and exploring new technologies. I have a keen interest in the Zen 3 architecture by Ryzen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 🐍 Python (Beginner)
+- 🌐 C (Beginner)
+- ☕ Java (Beginner)
+- 🛠️ x64 Assembly Language (Beginner)
+
+## Contact Me
+Feel free to reach out to me for discussions on cybersecurity, programming, or collaborations!
+
+<!-- Add your social media and contact links here -->
+
