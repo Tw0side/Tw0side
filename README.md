@@ -1,6 +1,6 @@
 # Hi there, I'm Santo 👋
 
-!Profile Picture
+https://github.com/account
 
 ## About Me
 I'm a Cyber Security student, currently diving into the world of tech. I'm passionate about learning and exploring new technologies. I have a keen interest in the Zen 3 architecture by Ryzen.
