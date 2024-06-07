@@ -50,6 +50,4 @@
 </html>
 
 
- Instagram - https://www.instagram.com/tw0side__
-
-Email - twoside2004@gmail.com
+ 
