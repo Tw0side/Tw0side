@@ -35,10 +35,33 @@ My journey in Cyber Security has led me to develop a passion for cybersecurity, 
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+### DIGITAL FORENSICS
+<div>
+   <img src="https://img.shields.io/badge/-Autopsy-34495E?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-FTK_Imager-2C3E50?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-RegRipper-8E44AD?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-RegRipper-8E44AD?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-HxD_Editor-C0392B?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-UFED_Cellebrite-1A1A1A?style=for-the-badge&logoColor=white" />
+ 
+</div>
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-7E4298?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
+
+### LANNGUAGES
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
+
+
+</div>
+
+
 
 ## Certifications
 <div>
