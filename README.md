@@ -18,7 +18,6 @@ My journey in Cyber Security has led me to develop a passion for cybersecurity, 
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -26,7 +25,8 @@ My journey in Cyber Security has led me to develop a passion for cybersecurity, 
     <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Maltego-004080?style=for-the-badge&logo=Maltego&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bettercap-AA367C?style=for-the-badge&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Scapy-68217A?style=for-the-badge&logoColor=white" />
+
 </div>
 
 ### Endpoint
@@ -37,21 +37,23 @@ My journey in Cyber Security has led me to develop a passion for cybersecurity, 
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-7E4298?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-WiFiPentest%20101-005A9C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-OPSWAT%20File%20Security%20Associate-0078D7?style=for-the-badge&logo=Opswat&logoColor=white" />
+<img src="https://img.shields.io/badge/-OPSWAT%20ICIP-0078D7?style=for-the-badge&logo=Opswat&logoColor=white" />
+<img src="https://img.shields.io/badge/-EC--Council%20D%7CFE-B40101?style=for-the-badge&logo=ESET&logoColor=white" />
+<img src="https://img.shields.io/badge/-arcX%20Cyber%20Threat%20Intelligence-0A0A23?style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Tw0side/Cyber-Intern-Phase-1">Detection Lab</a>
+- <a href="https://github.com/Tw0side/Traffic-Nexus-V1-Frontend">Traffic Nexus</a>
+
+## Experience
+
+
