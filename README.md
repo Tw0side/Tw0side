@@ -56,6 +56,12 @@ My journey in Cyber Security has led me to develop a passion for cybersecurity, 
 
 ## Speaking Sessions 
 
+-Awareness Session at St Anns HSS
 <img src="./STANS.jpg" alt="Awareness Session at ST Anns HSS " width="400"/>
+-Workshop on Digital Forensics
+<img src="./ssf.jpg" alt="Awareness Session at ST Anns HSS " width="400"/>
+-ISRA COMMUNITY MEETUP session on The topic Quantum Resistant Framework for SCADA systems.
+<img src="./talk%20at%20ISRA.jpeg" alt="ISRA " width="400"/>
+<img src="./Talk%20at%20ISRA%20(2).jpeg" alt="ISRA " width="400"/>
 
 
