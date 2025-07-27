@@ -54,6 +54,8 @@ My journey in Cyber Security has led me to develop a passion for cybersecurity, 
 - <a href="https://github.com/Tw0side/Cyber-Intern-Phase-1">Detection Lab</a>
 - <a href="https://github.com/Tw0side/Traffic-Nexus-V1-Frontend">Traffic Nexus</a>
 
-## Experience
+## Speaking Sessions 
+
+<img src="./STANS.jpg" alt="Awareness Session at ST Anns HSS " width="400"/>
 
 
