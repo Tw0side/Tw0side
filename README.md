@@ -1,5 +1,5 @@
 # Hello, I'm Santo
-<a href="https://linkedin.com/santo-cyriac-twoside2004"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/santo-cyriac-twoside2004"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Final Year Cyber security student from UCE thodupuzha and is interested in safeguarding the digital world.
 
