@@ -1,6 +1,6 @@
 <h1 align="center">Santo Cyriac</h1>
 <p align="center">
-  <b>Junior Cybersecurity Consultant</b> · VAPT · DFIR · AD Security · SAST · SOC<br/>
+  <b>Cybersecurity Consultant</b> · VAPT · DFIR · AD Security · SAST · SOC<br/>
   <i>Offense to understand the attack. Defense to stop it.</i>
 </p>
 
