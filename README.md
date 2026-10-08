@@ -33,7 +33,8 @@ Everything here is intended for **authorized testing, lab environments and defen
 
 | Project | Language | Description |
 | --- | --- | --- |
-| [**adscope**](https://github.com/Tw0side/adscope) | Python | Active Directory recon: locates DCs, fingerprints LDAP/Kerberos, checks anonymous bind. Authorized assessments only. |
+| [**adscope**](https://github.com/Tw0side/ADScop) | Bash | Active Directory recon: locates DCs, fingerprints LDAP/Kerberos, checks anonymous bind. Authorized assessments only. |
+| [**3nricher**](https://github.com/Tw0side/3nricher) | Python | Log Enricher Utilizing Multiple APIs for Threat Monitoring and rule creation |
 | [**Vulnerablead**](https://github.com/Tw0side/Vulnerablead) | PowerShell | Simplified vulnerable AD lab for safe enumeration and privilege-escalation practice. |
 
 ### In Progress / Roadmap
